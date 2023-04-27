@@ -8,5 +8,5 @@ e por conta propria estudo Java/SpringBoot/postgreSQL, com foco em desenvolver p
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Back end developer focus on learning more
-- 
+- 😜 FunFact as profiles view são de zoeira
 - 💬 Ask me about **Java, SpringBoot**
